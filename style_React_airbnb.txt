@@ -14,6 +14,6 @@
 	11. clickHanders or eventHanders
 	12. getter methods for render
 	13. optional render methods
-	14. render
-	
+15. render
+
 	
