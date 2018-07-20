@@ -1,0 +1,20 @@
+<svg width="12" height="12" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Canvas" transform="translate(-5514 745)">
+    <g id="Button/XClose">
+      <g id="Close">
+        <use id="bkt-close" xlink:href="#path0_fill" transform="translate(5514.49 -744.505)"
+             fill="#82869E"></use>
+      </g>
+      <mask id="mask0_outline" mask-type="alpha">
+        <g id="Close">
+          <use xlink:href="#path0_fill" transform="translate(5514.49 -744.505)" fill="#FFFFFF"></use>
+        </g>
+      </mask>
+    </g>
+  </g>
+  <defs>
+    <path id="path0_fill" fill-rule="evenodd"
+          d="M 5.50537 4.09106L 1.41406 0L 0 1.41418L 4.09082 5.50519L 0 9.59619L 1.41406 11.0104L 5.50537 6.91937L 9.59619 11.0104L 11.0103 9.59619L 6.91943 5.50519L 11.0103 1.41418L 9.59619 0L 5.50537 4.09106Z"></path>
+  </defs>
+</svg>
